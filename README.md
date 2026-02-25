@@ -35,7 +35,7 @@ https://www.figma.com/design/nvPT3Gv6iUyLaY003WSqSr/%E6%A0%AA%E5%BC%8F%E4%BC%9A%
 - 画面切り替え（自動・クリック）
 
 ## 工夫した点
-- かっこいいデザイン
+- 和風をメインとしたデザイン
 
 - 優先順位を整理
 
